@@ -22,7 +22,7 @@ Alongside my studies, I'm co-owner of **Aykan Agro Metal Grup**, an agricultural
 `Python` `SQL` `Excel`
 
 **Frameworks & Libraries**
-`CPLEX` `Gurobi` `PulP``Pandas` `NumPy` `Seaborn` `MatPlotlib``Streamlit` `Pyomo`
+`CPLEX` `Gurobi` `PulP` `Pandas` `NumPy` `Seaborn` `MatPlotlib` `Streamlit` `Pyomo`
 
 **Databases & Cloud**
 `Supabase` `PostgreSQL` `SQLite`
@@ -46,14 +46,6 @@ category profitability, and geospatial demand density across Brazil with Seaborn
 
 ---
 
-## 🎯 Goals & Vision
-
-- Break into a **Data Scientist or Data Analyst** role, leveraging my manufacturing & operations background
-- Build data-driven tools that solve real problems for industrial SMEs
-- Long-term: develop SaaS products at the intersection of **operations research and AI**
-
----
-
 ## 📬 Contact
 
 | Platform | Link |
@@ -65,5 +57,5 @@ category profitability, and geospatial demand density across Brazil with Seaborn
 ---
 
 <p align="center">
-  <i>Seek Beyond<3.</i>
+  <i>Seek Beyond<3</i>
 </p>
